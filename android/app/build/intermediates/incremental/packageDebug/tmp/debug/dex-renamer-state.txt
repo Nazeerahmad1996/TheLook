@@ -1,0 +1,4 @@
+#Fri Jun 07 14:12:52 PKT 2019
+base.0=D\:\\Programming\\React\\Expo\\TheLook2\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
